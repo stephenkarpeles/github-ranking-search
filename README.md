@@ -1,6 +1,6 @@
 # Github Ranking Search
 
-To spinup the project locally, you can run: 
+To spinup the project locally, you can `git clone` the project and then run: 
 
 #### `npm start`
 
